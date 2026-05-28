@@ -1,0 +1,14 @@
+
+====================
+Data: 2026-05-28 20:11
+Você: me ajuda a organizar meu dia
+Bot: Vou ajudá-lo a organizar seu dia! Para começar, preciso saber um pouco mais sobre o que você gostaria de fazer hoje. Por favor, responda às seguintes perguntas:
+
+1. Qual são suas principais prioridades para o dia? (Ex: trabalhar em um projeto, realizar tarefas administrativas, etc.)
+2. Você tem algum compromisso ou agendamento previsto para hoje?
+3. Qual é seu horário de trabalho/scholl e quando você gostaria de começar/fim sua rotina?
+4. Existem alguma atividade específica que você gostaria de incluir no seu dia (ex: exercícios, estudo, etc.)?
+
+Com essas informações, posso ajudá-lo a criar um plano de ação organizado para o seu dia!
+
+(Se quiser, também posso sugerir algumas ferramentas e dicas para ajudá-lo a melhorar sua produtividade e gerenciamento do tempo!)
