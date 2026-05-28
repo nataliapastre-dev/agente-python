@@ -36,6 +36,9 @@ Exemplo:
 
 ```bash
 
-ollama pull llama3
+
+
+
+
 
 
