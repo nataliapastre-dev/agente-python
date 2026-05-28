@@ -33,30 +33,14 @@ https://ollama.com
 ### 2. Baixe um modelo
 Exemplo:
 
-```bash
-ollama pull llama3
+3. Execute o agente
+   python agent.py
 
-Execute o agente
-python agent.py
-
-💬 Como usar
-
+   💬 Como usar
 Após iniciar o programa:
-
 Você: me ajuda a organizar meu dia
 Bot: ...
-📁 Estrutura do projeto
-agente-python/
-│
-├── agent.py
-├── chat_log.txt
-└── README.md
-⚡ Exemplo de uso
-Você: oi
-Bot: Olá! Como posso te ajudar hoje?
 
-Você: cria um plano de estudo
-Bot: Aqui está um plano...
 📌 Objetivo
 
 Este projeto tem como objetivo demonstrar:
@@ -65,3 +49,12 @@ Uso de Inteligência Artificial local
 Integração Python + APIs
 Criação de assistente conversacional
 Base para automações e agentes inteligentes
+
+
+📁 Estrutura do projeto
+agente-python/
+│
+├── agent.py
+├── chat_log.txt
+└── README.md
+
